@@ -1,4 +1,4 @@
-# Singapore-Tourism-Information-Visualization-Website
+# Singapore Tourism Information Visualization Website
 
 ### Storypoint 1 - Introduction
 <img src = "Storypoint Screenshots/Storypoint 1 - Introduction.js.html.png">
